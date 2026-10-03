@@ -1,0 +1,4 @@
+Goals.txt
+Learn Git
+Use GitHub
+Manage Versions
